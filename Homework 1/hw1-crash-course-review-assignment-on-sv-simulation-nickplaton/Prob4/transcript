@@ -1,0 +1,44 @@
+# do prob4.do
+# Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
+# Start time: 06:30:16 on Sep 05,2025
+# vlog gray.sv prob4_tb.sv 
+# -- Compiling module gray
+# -- Compiling module prob4_tb
+# 
+# Top level modules:
+# 	prob4_tb
+# End time: 06:30:16 on Sep 05,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.prob4_tb 
+# Start time: 06:30:16 on Sep 05,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vopt-143) Recognized 1 FSM in module "gray(fast)".
+# //  ModelSim SE-64 2021.3 Jul 13 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.prob4_tb(fast)
+# Loading work.gray(fast)
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# 14 tests completed with  0 errors
+# ** Note: $finish    : prob4_tb.sv(51)
+#    Time: 270 ns  Iteration: 1  Instance: /prob4_tb
+# End time: 06:30:17 on Sep 05,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

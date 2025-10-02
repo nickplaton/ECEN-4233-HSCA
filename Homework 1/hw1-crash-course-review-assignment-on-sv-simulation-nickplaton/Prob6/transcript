@@ -1,0 +1,38 @@
+# //  ModelSim SE-64 2021.3 Jul 13 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do prob6.do
+# Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
+# Start time: 06:46:18 on Sep 05,2025
+# vlog -reportprogress 300 gray_udl.sv prob6_tb.sv 
+# -- Compiling module gray_udl
+# -- Compiling module prob6_tb
+# 
+# Top level modules:
+# 	prob6_tb
+# End time: 06:46:18 on Sep 05,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.prob6_tb 
+# Start time: 06:46:18 on Sep 05,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.prob6_tb(fast)
+# Loading work.gray_udl(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# 25 tests completed with  0 errors
+# ** Note: $finish    : prob6_tb.sv(54)
+#    Time: 490 ns  Iteration: 1  Instance: /prob6_tb
+# 1
+# Break in Module prob6_tb at prob6_tb.sv line 54
+# End time: 06:48:38 on Sep 05,2025, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 0

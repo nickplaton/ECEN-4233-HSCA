@@ -1,0 +1,15 @@
+A:0 B:0 reset:0 || y:0 golden:0 || 1
+A:0 B:0 reset:0 || y:0 golden:0 || 1
+A:1 B:0 reset:0 || y:0 golden:0 || 1
+A:1 B:0 reset:0 || y:0 golden:0 || 1
+A:1 B:1 reset:0 || y:0 golden:0 || 1
+A:0 B:1 reset:0 || y:0 golden:0 || 1
+A:1 B:1 reset:0 || y:1 golden:1 || 1
+A:0 B:1 reset:0 || y:0 golden:0 || 1
+A:1 B:0 reset:0 || y:0 golden:0 || 1
+A:0 B:1 reset:0 || y:0 golden:0 || 1
+A:1 B:1 reset:0 || y:1 golden:1 || 1
+A:1 B:1 reset:1 || y:0 golden:0 || 1
+A:1 B:0 reset:0 || y:0 golden:0 || 1
+A:1 B:1 reset:1 || y:0 golden:0 || 1
+A:0 B:0 reset:0 || y:0 golden:0 || 1

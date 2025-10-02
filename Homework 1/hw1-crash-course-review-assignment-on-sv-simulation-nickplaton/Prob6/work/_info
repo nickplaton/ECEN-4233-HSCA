@@ -1,0 +1,70 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nick/Documents/High-Speed Computer Arithmetic/Homework 1/hw1-crash-course-review-assignment-on-sv-simulation-nickplaton/Prob6
+T_opt
+Z1 !s110 1757072778
+VU0^HKj7oNObkam?88?XmH0
+04 8 4 work prob6_tb fast 0
+=1-2cf05da0647f-68bacd8a-15c-1f34
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+vgray_udl
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 6`5fKLe`U<MR35L=Pf;gY0
+I4Un]`<a:VfWIE][3HiY]P2
+S1
+R0
+w1757072166
+8gray_udl.sv
+Fgray_udl.sv
+!i122 0
+L0 1 26
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z6 !s108 1757072778.000000
+Z7 !s107 prob6_tb.sv|gray_udl.sv|
+Z8 !s90 -reportprogress|300|gray_udl.sv|prob6_tb.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vprob6_tb
+R3
+R1
+!i10b 1
+!s100 0laEHWTQh`ECS6G6nCU?_2
+Ii^WIM5<5V^70I2ZN__4600
+S1
+R0
+w1757072561
+8prob6_tb.sv
+Fprob6_tb.sv
+!i122 0
+L0 3 56
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
