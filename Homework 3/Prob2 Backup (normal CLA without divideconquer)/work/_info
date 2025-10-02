@@ -1,0 +1,118 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nick/Documents/High-Speed Computer Arithmetic/Homework 3/hw3-carry-lookahead-and-prefix-adders-nickplaton/Prob2
+T_opt
+Z1 !s110 1759101294
+VCYCHm8NzA8HZ2UZO3SE?k2
+04 8 4 work prob2_tb fast 0
+=1-2cf05da0647f-68d9c16e-24b-17c4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+vbclg4
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 o`ZOH1;NAcE0GXVG]^mZ31
+I>8?BC@2;k23QAJJHQ>=j41
+S1
+R0
+w1759096646
+8bclg4.sv
+Fbclg4.sv
+!i122 0
+L0 1 10
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z6 !s108 1759101294.000000
+Z7 !s107 rfa.sv|prob2_tb.sv|cla64.sv|bclg4.sv|
+Z8 !s90 bclg4.sv|cla64.sv|prob2_tb.sv|rfa.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcla64
+R3
+R1
+!i10b 1
+!s100 A3j73:C?5GL>@koFc?TCB0
+IdBZeUeA5;1A[lngF=Uz7n3
+S1
+R0
+w1759101289
+8cla64.sv
+Fcla64.sv
+!i122 0
+L0 1 38
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
+vprob2_tb
+R3
+R1
+!i10b 1
+!s100 EN>F3e^hh=hW2bkcX2WUm0
+ID[JkURcmHAk0MZC2R:P7G3
+S1
+R0
+w1758946648
+8prob2_tb.sv
+Fprob2_tb.sv
+!i122 0
+L0 3 65
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
+vrfa
+R3
+R1
+!i10b 1
+!s100 C0d4PI0d=9_9elVn;Ug@70
+IY<kM=diLcj<Da8n>2jgK91
+S1
+R0
+w1758934553
+8rfa.sv
+Frfa.sv
+!i122 0
+L0 1 15
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
